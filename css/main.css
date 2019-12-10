@@ -238,7 +238,7 @@ text-decoration:none;
   display: block;
   font-weight:bold;
   margin-top: 15px;
-  color: #61a3c1;
+  color: #ff0000;
 }
 
 /*-- End Index --*/
@@ -259,8 +259,8 @@ text-decoration:none;
 #mainGallery h2 {
   font-size: 30px;
   width: 940px;
-  color: #2073a8;
-  background-color: #ddeff7;
+  color: #ff0000;
+  background-color: #ffcccc;
   margin-bottom: 40px;
   padding: 8px 0px 8px 5px;
 
@@ -280,7 +280,7 @@ text-decoration:none;
   margin-top: 5px;
   margin-bottom: 5px;
   padding-top: 10px;
-  color: #2073a8;
+  color: #ff0000;
   font-size: 18px;
 }
 
@@ -308,8 +308,8 @@ text-decoration:none;
 
 #mainContact h2 {
   font-size: 30px;
-  color: #2073a8;
-  background-color: #ddeff7;
+  color: #ff0000;
+  background-color: #ffcccc;
   margin-bottom: 40px;
   padding: 8px 0px 8px 5px;
   width: 940px;
@@ -381,7 +381,7 @@ input, textarea  {
 #mapArea h3 {
   font-size: 21px;
   margin-top: 0;
-  color: #2073a8;
+  color: #ff0000;
 }
 
 #mapArea ul {
